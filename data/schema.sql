@@ -41,7 +41,7 @@ CREATE TABLE clientes(
 )ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 
-INSERT INTO cliente (nombre,apellido_paterno,apellido_materno,telefono,email) VALUES ('Andrea','Mejia','Espinosa','1234567890','andre55@gmail.com');
+INSERT INTO clientes (nombre,apellido_paterno,apellido_materno,telefono,email) VALUES ('Andrea','Mejia','Espinosa','1234567890','andre55@gmail.com');
 
 
 
